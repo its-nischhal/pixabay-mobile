@@ -64,6 +64,7 @@ class ApiController {
    on DioException catch(e){
     log(e.type.name);
    }
+   return null;
     }
   
 }
