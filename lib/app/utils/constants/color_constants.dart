@@ -1,3 +1,1 @@
-class ColorConstants{
-  
-}
+class ColorConstants {}
